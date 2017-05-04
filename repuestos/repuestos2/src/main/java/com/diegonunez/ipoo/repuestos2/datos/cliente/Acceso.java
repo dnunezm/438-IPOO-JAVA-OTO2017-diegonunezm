@@ -1,5 +1,14 @@
 package com.diegonunez.ipoo.repuestos2.datos.cliente;
 
-public class Acceso {
+import java.util.Date;
 
+public class Acceso {
+	private Date fechaHoraInicio;
+	private Date fechaHoraFin;
+	private String ip;
+	private Cliente cliente;
+
+
+public Acceso (){
+}
 }
