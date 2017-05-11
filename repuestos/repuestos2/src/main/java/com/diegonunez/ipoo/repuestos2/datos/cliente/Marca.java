@@ -7,7 +7,7 @@ public class Marca {
 	private String nombre;
 	private String description;
 	
-	//contructor 1
+	//constructor 1
 	public Marca(){
 	}
      //constructor 2
