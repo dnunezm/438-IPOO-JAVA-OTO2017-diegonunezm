@@ -1,7 +1,5 @@
 package com.diegonunez.ipoo.repuestos2.datos.cliente;
 
-import java.util.Date;
-
 public class Marca {
 	private int id;
 	private String nombre;
