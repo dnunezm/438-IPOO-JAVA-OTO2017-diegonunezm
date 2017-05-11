@@ -7,6 +7,22 @@ public class Producto {
 	private Byte imagen;
 	private Double precio;
 	
+	//constructor 1
+	public Producto(){
+	}
+	
+	//constructor 2	
+	public Producto(int id, String nombre, String description, Byte imagen, Double precio) {
+		super();
+		this.id = id;
+		this.nombre = nombre;
+		this.description = description;
+		this.imagen = imagen;
+		this.precio = precio;
+	}
+
+
+
 	public int getId() {
 		return id;
 	}
