@@ -1,5 +1,5 @@
 package com.diegonunez.ipoo.repuestos2.datos.cliente;
-
+//Clase en vez de Storage
 public class Modelo {
 	
 	public int id;
